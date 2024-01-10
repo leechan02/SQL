@@ -1,10 +1,10 @@
 ### 🥯 ROUND
-숫자를 특정 소수점 자리까지 반올림한다.<br>
+Rounds a number to a specified number of decimal places.<br>
   - **Syntax**
     ```SQL
     ROUND(number, deciamls)
     -- number(필수): 반올림 될 숫자
-    -- deciaml(옵션): 반올림될 수수점 자리
+    -- deciaml(옵션): 반올림 될 소수점 자리
     ```
   - **Example**
     ```SQL
@@ -12,7 +12,7 @@
     -- result: 345
     ```
 ### 🌮 AVG
-지정된 값의 평균을 도출한다.<br>
+Returns the average value of an expression.<br>
   - **Syntax**
     ```SQL
     AVG(expression)
