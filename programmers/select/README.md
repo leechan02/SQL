@@ -4,11 +4,7 @@
 ### 🥞 Syntax
 ``` MySQL
 SELECT column1, column2, ...
-FROM table_name
-[WHERE]
-[GROUP BY]
-[HAVING]
-[ORDER BY column(s) [ASC|DESC]];
+FROM table_name;
 ```
 **column**: `field names` of the table you want to select data from. <br>
 **table_name**: the name of the `table` you want to select data from. <br>
