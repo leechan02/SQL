@@ -3,9 +3,12 @@ The DATE_FORMAT() function formats a date as specified.<br>
   - **Syntax**
     ```SQL
     DATE_FORMAT(date, format)
-    -- date(필수): 반올림 될 숫자
-    -- deciaml(옵션): 반올림 될 소수점 자리
+    -- date(필수): 다시 출력할 date 데이터
+    -- format(필수): 아래 여러 조합으로 출력할 수 있다.
     ```
+    |Format|Description|
+    |---|---|
+    |%D|Day of the month as a numeric value (1st, 2nd, 3rd,...|
   - **Example**
     ```SQL
     SELECT ROUND(345.156, 0);
