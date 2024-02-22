@@ -1,8 +1,5 @@
 # SQL
-
-About: SQL study
-
-[](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+[SQL Reference](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
 ## SQL 기본 문법
 
