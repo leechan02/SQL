@@ -1,7 +1,7 @@
 # SQL
 [SQL Reference](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
-## SQL 기본 문법
+## 🍎 SQL 기본 문법
 
 ### SQL 키워드 대소문자
 
@@ -37,7 +37,7 @@ SQL 키워드는 대소문자를 구분하지 않는다.
 
 `DROP INDEX` - 인덱스 삭제
 
-## SQL 키워드
+## 🍇 SQL 키워드
 
 ### SELECT
 
@@ -646,7 +646,7 @@ NULL값을 확인할 대 사용하는 키워드
     ```
     
 
-## MYSQL 함수들
+## 🍒 MYSQL 함수들
 
 ### 문자 관련 함수
 
